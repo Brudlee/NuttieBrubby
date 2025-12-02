@@ -1,5 +1,5 @@
-# {{MODPACK_NAME}}
-{{MODPACK_DESCRIPTION}}
+# NuttieBrubby
+Jommy fault
 
 ## Installation Instructions
 
