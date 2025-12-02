@@ -1,2 +1,41 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e07e774cd9969363b184bf8c1f495b8ef890c7cd75a7577ab3ebf8615311c19a"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "1b3d7375b7f26b395aad97bad4c1562943b985d8f7d58386faf7efe66965d937"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5bd8950828a148798f3a5541f1a31f863ecb591c9c4c2f9a02f23efd9bf90ec3"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "0172961b40e38e546b6655cc4a19574244f203938a78d4c231dc5a08f86d269d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "b386ac508791fdc45bc0605a776f39d7e9f497170fe468025156acc24b7448e5"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "c03db7ca0b213d590d9ad4f6c48e718950da46c942b56c26d2879f64850ff8c5"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "391b71b7f5bbe8947b742779cecd10f580e21e80dbd3cfc0572977fc7ecb7348"
+metafile = true
+
+[[files]]
+file = "mods/swem.pw.toml"
+hash = "27c8434cd1e3a0c6e0041814b6228c0b12c24abda34adfb0dfe7900ae96063fb"
+metafile = true
