@@ -1,0 +1,13 @@
+name = "playerAnimator"
+filename = "player-animation-lib-fabric-2.0.5+1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/ZTeZ33xQ/player-animation-lib-fabric-2.0.5%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "e7192c7403516b09f9beca496e2befea70a07d1016adc0bd10da4a53cea1492b67e03453b0d29bf16e09267569dc7dd4c5b6d57b162f75695ea1e800ea8e62d3"
+
+[update]
+[update.modrinth]
+mod-id = "gedNE4y2"
+version = "ZTeZ33xQ"
