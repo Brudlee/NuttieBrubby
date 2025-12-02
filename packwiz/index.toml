@@ -2,40 +2,65 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "e07e774cd9969363b184bf8c1f495b8ef890c7cd75a7577ab3ebf8615311c19a"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1b3d7375b7f26b395aad97bad4c1562943b985d8f7d58386faf7efe66965d937"
+hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "a8f0762eb0b57696a445cc9f9b8968de9492de538595e27d756bd7fe39ca1a9f"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5bd8950828a148798f3a5541f1a31f863ecb591c9c4c2f9a02f23efd9bf90ec3"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "0172961b40e38e546b6655cc4a19574244f203938a78d4c231dc5a08f86d269d"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "633b13c5912472982f53776c205117edbbf4b13b4de1975c37c42b6cf79624cf"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "b386ac508791fdc45bc0605a776f39d7e9f497170fe468025156acc24b7448e5"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "c03db7ca0b213d590d9ad4f6c48e718950da46c942b56c26d2879f64850ff8c5"
+hash = "90e66e9148f3b7f4ba1fb4f8cc5bb73961e277c26571f88dd102f8b40d36fef3"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
 metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "391b71b7f5bbe8947b742779cecd10f580e21e80dbd3cfc0572977fc7ecb7348"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "65f0af5f4f7f85928e7f843ffcf0a971978468e8e4af85bfec087529c0f1e890"
 metafile = true
 
 [[files]]
 file = "mods/swem.pw.toml"
-hash = "27c8434cd1e3a0c6e0041814b6228c0b12c24abda34adfb0dfe7900ae96063fb"
+hash = "b409c498b7a4c37be7ff6bb2c5e62749358f0cc6cae3314560f8069daf69c3d0"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true

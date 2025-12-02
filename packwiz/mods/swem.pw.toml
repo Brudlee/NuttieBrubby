@@ -1,13 +1,13 @@
-name = "Star Worm Equestrian Mod"
-filename = "swem-forge-1.18.2-1.4.6.jar"
+name = "Star Worm Equestrian (Upgrading Horses)"
+filename = "swem-1.20.1-1.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z43PTXn8/versions/nHrrnKav/swem-forge-1.18.2-1.4.6.jar"
-hash-format = "sha512"
-hash = "f37b30ad202a5b096c9853553a1f1a6b94eb21c865e26a30d442b31cc048c47787151bbf2d60f1ba80b8aeeb2bed7db93cd83d25fef6bc5f0ee63357ba1f769e"
+hash-format = "sha1"
+hash = "8f31f9600071b977473a97a0c82176e258317d37"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Z43PTXn8"
-version = "nHrrnKav"
+[update.curseforge]
+file-id = 6739081
+project-id = 582697

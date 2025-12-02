@@ -1,13 +1,13 @@
-name = "Minecolonies"
-filename = "minecolonies-1.18.2-1.1.29-BETA.jar"
+name = "MineColonies"
+filename = "minecolonies-1.20.1-1.1.1133-snapshot.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sSr0QEGx/versions/oSkMrxBl/minecolonies-1.18.2-1.1.29-BETA.jar"
-hash-format = "sha512"
-hash = "976b425bb6d5893c30a549a5e0bd66f6bcad60448cb06dbcef7033b9e9f94aa19d623c6c9ae73be2f20aab5901073abbba41a18e1d5efc96b7d1cd0fe7c4092f"
+hash-format = "sha1"
+hash = "34065b68b9dcd1f88c386ec1e47eadfa074fd287"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "sSr0QEGx"
-version = "oSkMrxBl"
+[update.curseforge]
+file-id = 7278582
+project-id = 245506
