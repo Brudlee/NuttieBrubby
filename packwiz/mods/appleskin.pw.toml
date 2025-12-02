@@ -1,0 +1,13 @@
+name = "AppleSkin"
+filename = "appleskin-neoforge-mc1.21.9-3.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/FF6hfoVa/appleskin-neoforge-mc1.21.9-3.0.7.jar"
+hash-format = "sha512"
+hash = "b6338f625a527bdf277e5c757247493b16168737bf88600b38270408b80b83a186016493088573534d69aecfb186f06baca82869fe96439ed3a7c7e7840e8177"
+
+[update]
+[update.modrinth]
+mod-id = "EsAfCjCV"
+version = "FF6hfoVa"
