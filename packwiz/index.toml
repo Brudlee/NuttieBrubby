@@ -81,6 +81,11 @@ hash = "bb8b36ded9744d09db566e56b13368b6f4396180b531b36323982c852bea09d2"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -291,6 +296,11 @@ hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
+metafile = true
+
+[[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
 metafile = true
@@ -372,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "65f0af5f4f7f85928e7f843ffcf0a971978468e8e4af85bfec087529c0f1e890"
+hash = "67c1792a1231aeb5d3e7e3a784fbc9c93089b22e559ca875e9503981f196b2ae"
 metafile = true
 
 [[files]]
