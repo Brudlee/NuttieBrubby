@@ -116,18 +116,8 @@ hash = "45181af6516b3adc99f7d564763ee0db8eb70cd133a09d3266a903a9f755c5a8"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "994435ced6de94b36b0a2a5e40ad87f38c1bf3f076ee94f65dfe102d4cb93f9f"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "c5f30d9ab224c5df151659e50f45e02fad4c59ff4262d75247373dd667b6e704"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "aa383802afb154b1cf46efff75fc581f73a81f45db28592f264a95c4fd6400a7"
 metafile = true
 
 [[files]]
@@ -153,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/create-train-additions.pw.toml"
 hash = "98e4b6d5500930be0a640fb0fb9f0d7e31670505cb3c3be0123164c48ed826aa"
-metafile = true
-
-[[files]]
-file = "mods/create-train-deco.pw.toml"
-hash = "0577bda5209a79416a1f223059b0dc1ea64d48e67a2c5ff466ba559af90a5e2c"
 metafile = true
 
 [[files]]
