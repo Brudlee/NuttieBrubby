@@ -6,6 +6,16 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "04aae524d364de0ec8ac66db6eaff094b9c9b9d69e5de89f11acb2a00ce35261"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
 metafile = true
@@ -16,8 +26,13 @@ hash = "a8f0762eb0b57696a445cc9f9b8968de9492de538595e27d756bd7fe39ca1a9f"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "bb8b36ded9744d09db566e56b13368b6f4396180b531b36323982c852bea09d2"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -26,8 +41,68 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
+file = "mods/conquest-reforged.pw.toml"
+hash = "c29a745b2f04d07f814fe819748c11c6efda5ab6d62cf601782258a78f4ed079"
+metafile = true
+
+[[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "543d7760b3760917f1c82e8e55fbcb5f0bb920917634271e6d5bd9f1585106b2"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "6a18fc39dbe317dcdba9aac9d5457e1bb2aa6decf77a6f4d6e67d7fbff0831d0"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "633b13c5912472982f53776c205117edbbf4b13b4de1975c37c42b6cf79624cf"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d84706a9a476a86045b1c8c999e8e29ccae613180c10dbb4f1f443f1c82084fa"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "3810c0a9cfadfd63f36e280b217d939f6e776301bdf71c2ec39e901e36ab34fc"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
+metafile = true
+
+[[files]]
+file = "mods/exotic-birds.pw.toml"
+hash = "62b01a3d13dd782c25985ae5b70b62561af2d1681423a8f9a6a21ba155af97c4"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/forgeskyboxes.pw.toml"
+hash = "046b541720154e5671132a310a1df94a7893b96d623f10ee006969191ca07878"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
 metafile = true
 
 [[files]]
@@ -36,8 +111,18 @@ hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "58170607da6517dc43eeb5a664dea9dec7d96a8ad9e99d2623c2a5a9099c91be"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "90e66e9148f3b7f4ba1fb4f8cc5bb73961e277c26571f88dd102f8b40d36fef3"
+hash = "8f705cd396d9cfcd6da32993415467378f7afabcaf33be2d2cda66f76fd64041"
 metafile = true
 
 [[files]]
@@ -46,8 +131,48 @@ hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "1b399d93392e57f928b5d7ba9bb9fe339b9129b26c9668701b5a90f61c34c913"
+metafile = true
+
+[[files]]
+file = "mods/potacore.pw.toml"
+hash = "0784b7ba7561937d32017dd8afb3e26839e3b29a09b567ebdd8f91c4513a1636"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "e38945b50b973d994c16480820661aada73212ed7e60fafdbf17b0e7f6740378"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "b8c2ba91c889b159d1b85c11293927958401b4df1898dced176bb70984a22259"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "4337bb9f8d504a42da9ca4d56041e1353aa2f84e5470308e3806ce5650691044"
 metafile = true
 
 [[files]]
@@ -61,6 +186,26 @@ hash = "b409c498b7a4c37be7ff6bb2c5e62749358f0cc6cae3314560f8069daf69c3d0"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a01449c29314bff0ad2047911d8253641801e01997709f53fa5b3f52954232a3"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
 file = "mods/towntalk.pw.toml"
 hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
+metafile = true
+
+[[files]]
+file = "mods/tres-tack-shop.pw.toml"
+hash = "74a867ef8a3f8dd21446a4b57973a8f0d66370d890e261cdfca3f54db0f05bc8"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
