@@ -196,11 +196,6 @@ hash = "b3ea02e195a58612e4c4f07b7a3cf3fd584bdcb17a8ddf5479dc8dd4abb1c94a"
 metafile = true
 
 [[files]]
-file = "mods/forgeskyboxes.pw.toml"
-hash = "046b541720154e5671132a310a1df94a7893b96d623f10ee006969191ca07878"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
 metafile = true
@@ -263,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
