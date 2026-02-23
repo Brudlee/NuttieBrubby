@@ -186,11 +186,6 @@ hash = "41f733ad912266ca5d1db930a38d630444cc5f61a7cfba1e93125d66bd0e7570"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "543d7760b3760917f1c82e8e55fbcb5f0bb920917634271e6d5bd9f1585106b2"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "57d291aa5d25da88e5f166124d89b1fe7b5c9c91aa6266b960dc443582baa76d"
 metafile = true
@@ -246,11 +241,6 @@ hash = "3810c0a9cfadfd63f36e280b217d939f6e776301bdf71c2ec39e901e36ab34fc"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
-metafile = true
-
-[[files]]
 file = "mods/exotic-birds.pw.toml"
 hash = "62b01a3d13dd782c25985ae5b70b62561af2d1681423a8f9a6a21ba155af97c4"
 metafile = true
@@ -263,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/fetzis-asian-decoration.pw.toml"
 hash = "b3ea02e195a58612e4c4f07b7a3cf3fd584bdcb17a8ddf5479dc8dd4abb1c94a"
-metafile = true
-
-[[files]]
-file = "mods/forgeskyboxes.pw.toml"
-hash = "046b541720154e5671132a310a1df94a7893b96d623f10ee006969191ca07878"
 metafile = true
 
 [[files]]
