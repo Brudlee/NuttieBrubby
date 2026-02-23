@@ -1,0 +1,13 @@
+name = "Extended Time"
+filename = "extended_time-1.0.0-forge-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cupSSrVk/versions/ZyfrOrHI/extended_time-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "0af8a997e4635e92b93cd0baaba9e85afb87494e342f57a86ea52bdace8cb6deb33b6c4c03edfd2a2c60b3e004539df19b6a4a8b5faba4c507928b13af9a1200"
+
+[update]
+[update.modrinth]
+mod-id = "cupSSrVk"
+version = "ZyfrOrHI"
