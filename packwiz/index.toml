@@ -71,11 +71,6 @@ hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
 
 [[files]]
-file = "mods/chinjufumod.pw.toml"
-hash = "a7eb7c6c3d6e2d62fe047e78d6ffb8c1e9385554c67fa15bd923b7c14d006d21"
-metafile = true
-
-[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "bb8b36ded9744d09db566e56b13368b6f4396180b531b36323982c852bea09d2"
 metafile = true
