@@ -451,6 +451,11 @@ hash = "a7c51cc5f8258777383ad93677a9cfe4dbef600eb4f6056bcfdc123e5cdbcf82"
 metafile = true
 
 [[files]]
+file = "mods/vanimals.pw.toml"
+hash = "d10d7a91210303ad94c644957402c0736c07749eb5d2d5e61010aea18c91bfb3"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1ce0987643cf67ac8c890d3eeeecd86ccc683ea874f0c8b06d898b12df9c3963"
 metafile = true

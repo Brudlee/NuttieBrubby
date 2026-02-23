@@ -1,0 +1,13 @@
+name = "Vanimals"
+filename = "vanimals-0.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5a9ad37f5144db790cdb0177f805390302f9734"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6920070
+project-id = 1288333
