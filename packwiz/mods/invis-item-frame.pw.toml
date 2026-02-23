@@ -1,0 +1,13 @@
+name = "Invis item frame"
+filename = "invis-item-frame-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "583f5240d70ec8dde71d2837e4440bc65ba0f8c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5409107
+project-id = 1033104
