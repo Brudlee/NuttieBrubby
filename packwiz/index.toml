@@ -126,11 +126,6 @@ hash = "68069a63ebbff63d18a9e8242745ca342b1649e07944291e8e5e24ba74946b25"
 metafile = true
 
 [[files]]
-file = "mods/create-interactive.pw.toml"
-hash = "69d316d900a3efc1981df59bd9cd9dccb763c7b780e0a9102eaa77051e8d9b1c"
-metafile = true
-
-[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "ca274f1a31ba6fdf3ce7fc4a14e5d6ffcaa19c711595d98d87deb1d9fe365727"
 metafile = true
@@ -286,11 +281,6 @@ hash = "ce3e9cc2198f73fcb6546d9cc4981bc981fb849ba7fd1d71979a9ee3949b99e8"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
 metafile = true
@@ -423,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "6105ee815a2a5c592d49e8c2432ea45d08cf9ba064c2b75914e62fcef93f08ed"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "a7c51cc5f8258777383ad93677a9cfe4dbef600eb4f6056bcfdc123e5cdbcf82"
 metafile = true
 
 [[files]]
