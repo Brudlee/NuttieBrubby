@@ -256,6 +256,11 @@ hash = "ce3e9cc2198f73fcb6546d9cc4981bc981fb849ba7fd1d71979a9ee3949b99e8"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
 file = "mods/lithosphere.pw.toml"
 hash = "11e8f7c2a2214f3133188ca8d045c9171eca8988fbae8a13572e56129b8b9910"
 metafile = true
