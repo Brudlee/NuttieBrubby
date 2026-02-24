@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-inventory-mod.pw.toml"
+hash = "f3725188dba6ebf7389f767d373a7d54daa67d1b10495cc97d3674bf01f17418"
+metafile = true
+
+[[files]]
 file = "mods/aesthetic-shelving.pw.toml"
 hash = "80033e3d877fc5d63e619ad010ef24ddba7670948dd3e6166b3e90ab5a182d91"
 metafile = true
