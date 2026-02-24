@@ -51,11 +51,6 @@ hash = "511e20af51a55064c02d18ed69caffff6a8b72eeaddaf69a3f5eedfd7d951b85"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
 metafile = true
@@ -82,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -256,6 +251,11 @@ hash = "ce3e9cc2198f73fcb6546d9cc4981bc981fb849ba7fd1d71979a9ee3949b99e8"
 metafile = true
 
 [[files]]
+file = "mods/invmove.pw.toml"
+hash = "d3993d3799faf90e195a7e1c73cb8319ef6f6e31cb1bce132b18bbe2e46799e9"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
@@ -371,6 +371,11 @@ hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
+file = "mods/treelumber.pw.toml"
+hash = "ff9249ad09b8bf299e61fec12a1918eac5737b924d872f94f69fd6661a48e1ba"
+metafile = true
+
+[[files]]
 file = "mods/tres-tack-shop.pw.toml"
 hash = "74a867ef8a3f8dd21446a4b57973a8f0d66370d890e261cdfca3f54db0f05bc8"
 metafile = true
@@ -383,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "1ce0987643cf67ac8c890d3eeeecd86ccc683ea874f0c8b06d898b12df9c3963"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "9e27e4ed40b06dc5578d6d4bfcd900a2e7b3c38d044757bb8c3ea6249c12fefc"
 metafile = true
 
 [[files]]
