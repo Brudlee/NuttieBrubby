@@ -51,11 +51,6 @@ hash = "511e20af51a55064c02d18ed69caffff6a8b72eeaddaf69a3f5eedfd7d951b85"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "fe46309d954710019e07813bcdc6db2c775b07795f3628cb559610adcb129a9a"
 metafile = true
@@ -383,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "1ce0987643cf67ac8c890d3eeeecd86ccc683ea874f0c8b06d898b12df9c3963"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "9e27e4ed40b06dc5578d6d4bfcd900a2e7b3c38d044757bb8c3ea6249c12fefc"
 metafile = true
 
 [[files]]
