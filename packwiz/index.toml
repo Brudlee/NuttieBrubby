@@ -386,11 +386,6 @@ hash = "ceef63cdf36c1e23cc00a78aa9b81a13a34fc02cea9ccdf2ec35d0558cff72e5"
 metafile = true
 
 [[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "afdb5a771ddf7d544e2eae73709930bb676450e14156ca86fc30b16352798ffb"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
