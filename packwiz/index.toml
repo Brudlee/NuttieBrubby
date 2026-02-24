@@ -356,11 +356,6 @@ hash = "6105ee815a2a5c592d49e8c2432ea45d08cf9ba064c2b75914e62fcef93f08ed"
 metafile = true
 
 [[files]]
-file = "mods/vanimals.pw.toml"
-hash = "d10d7a91210303ad94c644957402c0736c07749eb5d2d5e61010aea18c91bfb3"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1ce0987643cf67ac8c890d3eeeecd86ccc683ea874f0c8b06d898b12df9c3963"
 metafile = true
