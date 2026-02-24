@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/treelumber.pw.toml"
-hash = "ff9249ad09b8bf299e61fec12a1918eac5737b924d872f94f69fd6661a48e1ba"
+hash = "3df69cb9c898e936a3b15fda3059e7228ceb505af7d357b82c780947c74c1086"
 metafile = true
 
 [[files]]

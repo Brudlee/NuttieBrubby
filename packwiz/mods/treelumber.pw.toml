@@ -1,13 +1,13 @@
-name = "TreeLumber"
+name = "treelumber"
 filename = "TreeLumber-1.2--1.20.X.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "962db1df41a5d6c7c6d14d00d5b87ba0be34669b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LhPzbnsf/versions/x5VazPzZ/TreeLumber-1.2--1.20.X.jar"
+hash-format = "sha512"
+hash = "ff3a685a4d896fc26ed3932e9ad148e9fc950f78828d62f4a50e6b34cd6599f8d4b45c912642fd6d0ca0abd33735a214c2c8ebdf3f07cb471182da1cef8c0d63"
 
 [update]
-[update.curseforge]
-file-id = 4923320
-project-id = 858497
+[update.modrinth]
+mod-id = "LhPzbnsf"
+version = "x5VazPzZ"
