@@ -316,6 +316,11 @@ hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "08197948c8d9e5714a89ebaba83f7304b24892340ddc288144cc0c363cf128d8"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "e3a2b7e4cf982ab5bebe2e6116173aa2aadb313d52c1bb11886772f83a848a9f"
 metafile = true
