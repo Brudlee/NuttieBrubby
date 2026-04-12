@@ -21,6 +21,11 @@ hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
 
 [[files]]
+file = "mods/better-copper-armor-and-tools.pw.toml"
+hash = "7cfe2d1deff63f0e1a329e3180552690b515837402ebcadcdcf954b3b8b81988"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
 metafile = true
@@ -96,6 +101,11 @@ hash = "1dfac146a84e16f89ae17bcc8e9ee745040f8310dfc9c9b896c7ad372cdd82ca"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "a02b72ee2511b1b0c34df97c841b4fe1e1c7033d0b411328371a426c97fe5d42"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "df07d5af0d287b944943b65e0b0990dc21fbbad6fee05b9d698a9f62b906ea9c"
 metafile = true
 
 [[files]]
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
+file = "mods/purecoppertools.pw.toml"
+hash = "4407d423652a9a5ce340797868d194d761376b396a3ad140fa55f259a5830827"
 metafile = true
 
 [[files]]
