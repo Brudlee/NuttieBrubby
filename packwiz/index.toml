@@ -96,6 +96,16 @@ hash = "1dfac146a84e16f89ae17bcc8e9ee745040f8310dfc9c9b896c7ad372cdd82ca"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/gabous-libs.pw.toml"
+hash = "b3bd9ba8deee5315455dc1a6ad21b76a7944e7e6bf24cb63b98d4ad8cfa9a19d"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
 metafile = true
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/hourglass.pw.toml"
 hash = "33c13017e0a59e5743ac644cf37496622a096c925b708e3bd39de676b1c2fc00"
+metafile = true
+
+[[files]]
+file = "mods/identity-fix.pw.toml"
+hash = "7cc206b77775e6e2f137c0162c15e6d04368a279fbe866e7ed28caa008720896"
 metafile = true
 
 [[files]]
