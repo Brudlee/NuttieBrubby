@@ -1,0 +1,13 @@
+name = "Sturdy Farmland"
+filename = "dew_drop_farmland-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZQRrZoO/versions/VbGigXg0/dew_drop_farmland-1.1.jar"
+hash-format = "sha512"
+hash = "f2c59985aaad1572018dd6b0c38dd7f8ee7d8511c3c637392b403e611a63bc9e115efb4681dbc7c4a4403c35419b761cb7d6facfa5fcd64bdc1a737b74c54c9e"
+
+[update]
+[update.modrinth]
+mod-id = "pZQRrZoO"
+version = "VbGigXg0"

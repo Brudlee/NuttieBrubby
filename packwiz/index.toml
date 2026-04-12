@@ -41,6 +41,11 @@ hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
 
 [[files]]
+file = "mods/bots-lib.pw.toml"
+hash = "aa75e6f449db4c77222c77c8a697e4682572085fd563ac26af1e89ec3fd58cdf"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
@@ -93,6 +98,16 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "ac4cbd7785b8c70de4037162d6626910633e6b997c957e90de961316716e8402"
+metafile = true
+
+[[files]]
+file = "mods/daily-weather.pw.toml"
+hash = "1c6283d64e8fe6beee58f186ce44cdfd33476e50e2cb01dda00129fddcf6dcdd"
+metafile = true
+
+[[files]]
+file = "mods/dew-drop-watering-cans.pw.toml"
+hash = "5118e1bc4bfe85bca28c46a9d243aae410616db3df04aa1b1d3b397ea5756baa"
 metafile = true
 
 [[files]]
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
+
+[[files]]
+file = "mods/sturdy-farmland.pw.toml"
+hash = "daca2494a540d4e8530d66f721941d6a6cb4a30a461919f071db63b687fe5c93"
 metafile = true
 
 [[files]]
