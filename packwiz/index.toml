@@ -231,8 +231,23 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/serversleep.pw.toml"
+hash = "44f8e191baca62e32f20d70ce0c2c28c18f536dc5514f78b734d2d3a0bfbab67"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a45bc70d623b15e2d71a1fe8bb123b4da3d2283f1dc571118e9bd5e28fb6b5b4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "50223aaa54a2aeef50ce93d98ad0f9c66153c2c4a78bfa03addafb7bb36a67fa"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "51bd785f1d99966e9015a79511435e352b09356b29fdcde0f011c46395a958de"
 metafile = true
 
 [[files]]
