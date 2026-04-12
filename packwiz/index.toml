@@ -231,11 +231,6 @@ hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
-file = "mods/purecoppertools.pw.toml"
-hash = "4407d423652a9a5ce340797868d194d761376b396a3ad140fa55f259a5830827"
-metafile = true
-
-[[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
 hash = "d3d5efd34f6882d5447ac51069506077fb97f6d2adfd7a29af4a803e8158f026"
 metafile = true
