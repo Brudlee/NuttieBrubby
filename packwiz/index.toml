@@ -211,6 +211,11 @@ hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
 metafile = true
 
 [[files]]
+file = "mods/rapid-leaf-decay.pw.toml"
+hash = "d3d5efd34f6882d5447ac51069506077fb97f6d2adfd7a29af4a803e8158f026"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "80d8a6648182daa3cd346db6235fe3dcbc3b8d8573507b27d3e8fdf6d9efd048"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/time-control.pw.toml"
+hash = "d53479521d23390d2bf557ae1c92ae0bbbaf2200dda168e3e8afde6a92984d10"
 metafile = true
 
 [[files]]
