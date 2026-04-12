@@ -21,6 +21,11 @@ hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
+metafile = true
+
+[[files]]
 file = "mods/better-copper-armor-and-tools.pw.toml"
 hash = "7cfe2d1deff63f0e1a329e3180552690b515837402ebcadcdcf954b3b8b81988"
 metafile = true
