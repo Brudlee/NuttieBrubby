@@ -241,6 +241,11 @@ hash = "80d8a6648182daa3cd346db6235fe3dcbc3b8d8573507b27d3e8fdf6d9efd048"
 metafile = true
 
 [[files]]
+file = "mods/replanter.pw.toml"
+hash = "381b1b06e6965c7b62ecc4f596b3b2b9cb28d91ae20d87ee6bf6a71064cc1c37"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true

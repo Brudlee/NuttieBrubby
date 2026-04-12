@@ -1,0 +1,13 @@
+name = "Replanter"
+filename = "replanter-1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jqwaxp9f/versions/4uzE6PnM/replanter-1.4.0.jar"
+hash-format = "sha512"
+hash = "d5286f90ca2d23cdc121ee74c589305701b0b90df5fff1452b4585b8791ebd6673bb6dbde88ebbff54147831aa9e2dc634ad5436eafb94d97e1a45b0f56beada"
+
+[update]
+[update.modrinth]
+mod-id = "Jqwaxp9f"
+version = "4uzE6PnM"
