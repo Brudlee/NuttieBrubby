@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "5d081fa82eca0b17263382fc9fde77d668af876ae8cbdc6d92b017ad9c96f1fd"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
+metafile = true
+
+[[files]]
+file = "mods/bores.pw.toml"
+hash = "7cc8435966d3aaf57872b6a87a6625d8acae855abd569d69dc71eeb69af35ac5"
 metafile = true
 
 [[files]]
