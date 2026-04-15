@@ -306,6 +306,21 @@ hash = "a45bc70d623b15e2d71a1fe8bb123b4da3d2283f1dc571118e9bd5e28fb6b5b4"
 metafile = true
 
 [[files]]
+file = "mods/simplest-excavators.pw.toml"
+hash = "3499b15f81bc770453fc48d4eda1c0633f6014d84cdb573ef020cfe77c8789a1"
+metafile = true
+
+[[files]]
+file = "mods/simplest-hammers.pw.toml"
+hash = "7d20ed30a37a3b307fc59deecea3f9a22e899b63c8ee5dbb87c0f20c7216150f"
+metafile = true
+
+[[files]]
+file = "mods/simplest-paxels.pw.toml"
+hash = "50ef6a60c35318e401b1618317335ecba4cb1a4c580a9e573158b1c9c31522b8"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "50223aaa54a2aeef50ce93d98ad0f9c66153c2c4a78bfa03addafb7bb36a67fa"
 metafile = true
