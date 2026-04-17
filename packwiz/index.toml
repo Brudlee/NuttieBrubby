@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/daily-weather.pw.toml"
 hash = "1c6283d64e8fe6beee58f186ce44cdfd33476e50e2cb01dda00129fddcf6dcdd"
+metafile = true
+
+[[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "3605597ba3c20ae649d26cb82b8d4e365fd01d5f5e199e88bde0137d94a2b10f"
 metafile = true
 
 [[files]]
@@ -231,6 +236,11 @@ hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
 metafile = true
@@ -263,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
+metafile = true
+
+[[files]]
+file = "mods/musicbox.pw.toml"
+hash = "4daeb663b5c7748725c9c96e30f30a537f2d6395a64b723274c9a8b07c3cf510"
 metafile = true
 
 [[files]]
@@ -303,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
 
 [[files]]
@@ -418,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "e3a2b7e4cf982ab5bebe2e6116173aa2aadb313d52c1bb11886772f83a848a9f"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "c1bf8d194ef2c39c6046fa53861571b7c569277923b35e6d95a58ee4644eedb6"
 metafile = true
 
 [[files]]
