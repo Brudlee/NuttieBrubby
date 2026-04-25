@@ -161,11 +161,6 @@ hash = "1dfac146a84e16f89ae17bcc8e9ee745040f8310dfc9c9b896c7ad372cdd82ca"
 metafile = true
 
 [[files]]
-file = "mods/etched.pw.toml"
-hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "a02b72ee2511b1b0c34df97c841b4fe1e1c7033d0b411328371a426c97fe5d42"
 metafile = true
