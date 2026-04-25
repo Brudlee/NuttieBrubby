@@ -66,6 +66,11 @@ hash = "aa75e6f449db4c77222c77c8a697e4682572085fd563ac26af1e89ec3fd58cdf"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "528a5c2d50126e1b2906b47449b40a996fce3b4a50b9a0460533f2b7b74f5c99"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
