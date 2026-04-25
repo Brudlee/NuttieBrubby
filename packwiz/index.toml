@@ -136,6 +136,11 @@ hash = "5118e1bc4bfe85bca28c46a9d243aae410616db3df04aa1b1d3b397ea5756baa"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "57d291aa5d25da88e5f166124d89b1fe7b5c9c91aa6266b960dc443582baa76d"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
