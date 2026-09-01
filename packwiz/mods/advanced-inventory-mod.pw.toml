@@ -1,13 +1,13 @@
-name = "Advanced Upgradable Inventory"
-filename = "advancedinventory-1.1.7.jar"
+name = "Advanced Inventory"
+filename = "advancedinventory-1.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3b34d662d75fd47910733c4431c0db020da67fcd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/um77b2o9/versions/x9ljbmIE/advancedinventory-1.1.3.jar"
+hash-format = "sha512"
+hash = "61a31f6088219f1402482e3e85d85444e785acd16d15feefdc2931f2aa0cde6476ecafb6ed357964175c1b04f2cea1c5bd6cac981de195667975cee7e0e8e1a2"
 
 [update]
-[update.curseforge]
-file-id = 5290199
-project-id = 962244
+[update.modrinth]
+mod-id = "um77b2o9"
+version = "x9ljbmIE"

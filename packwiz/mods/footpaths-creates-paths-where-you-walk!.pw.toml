@@ -1,0 +1,13 @@
+name = "Footpaths: Creates Paths Where You Walk!"
+filename = "footpaths-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zO6nuSXm/versions/l3nKNGKc/footpaths-1.0.jar"
+hash-format = "sha512"
+hash = "e5bc23d27f37d31a574eac8f94baf44ffd587373b7cf3320e9fc3a25c79d3df1428a679ee8a5fbdc0b803901211df9ee5b689dcc4bc73259045897cfee1bb9d5"
+
+[update]
+[update.modrinth]
+mod-id = "zO6nuSXm"
+version = "l3nKNGKc"

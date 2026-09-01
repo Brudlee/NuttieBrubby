@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-inventory-mod.pw.toml"
-hash = "2fcedc7b25ffc9778912e94480271d98555ba8519a5bcf07c7155691fa6964f9"
+hash = "f3725188dba6ebf7389f767d373a7d54daa67d1b10495cc97d3674bf01f17418"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-of-the-ages.pw.toml"
-hash = "e38bfb1f9bdf828397bd4f16c8fa4bd106fbd97551870f6b069520760a4fe87d"
+hash = "f05b70b6982845566bb919b30cee5a828163b420ddc027d641ae890542d0643b"
 metafile = true
 
 [[files]]
@@ -81,8 +81,18 @@ hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
 metafile = true
 
 [[files]]
+file = "mods/civillis.pw.toml"
+hash = "5ce572c3b66c4907ce9948c4cf1c0ddf758341c8f6aa4fc6619c333d8baaf282"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
@@ -101,8 +111,18 @@ hash = "e9cfb7374590ca30ace54658e4196c6b2f3883b89fdaa4c2cfb124da37021a55"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "38f8ed86c67b3c54d8044835237809587cf3c8f1cf5a7facddf8126b38c0425e"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d584896433cab9fdba6034182ce0f8376cfd5eb1255fa98ed47e535b94f7674b"
 metafile = true
 
 [[files]]
@@ -122,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn-of-time.pw.toml"
-hash = "b47ea19b5671d0d6c9b6bd3fbefd25aae11ddae2a909d1bf6e6f772104ea89ca"
+hash = "8914e26ce51cd5994a9458b0071eb8630a604e8fb7341e0cc6ccaf39737fd343"
 metafile = true
 
 [[files]]
@@ -177,7 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "37c8fd64e324fae219a25f9937dad68e2a88ab17a5cd8c3f09029a92afc47641"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
+metafile = true
+
+[[files]]
+file = "mods/euphonium.pw.toml"
+hash = "9444c556d19cc0b521c9a923ca75696234e17e84b2b78fa421a28f311486210a"
 metafile = true
 
 [[files]]
@@ -201,8 +226,13 @@ hash = "f5ec1717631b23267562ccd447fb7a3caeab89dd0bf97f3c9c77ed4d98542d3f"
 metafile = true
 
 [[files]]
+file = "mods/footpaths-creates-paths-where-you-walk!.pw.toml"
+hash = "29f309d944cd37b111346060910717dd7d78b18b444654b40e3e9a9d92e609d8"
+metafile = true
+
+[[files]]
 file = "mods/forgeskyboxes.pw.toml"
-hash = "046b541720154e5671132a310a1df94a7893b96d623f10ee006969191ca07878"
+hash = "d8958ad4a603ed4ed952ed1cd2cb13a41734aa5a1eba7d6530f37afe7aad2311"
 metafile = true
 
 [[files]]
@@ -212,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "6499131eb811f49b5cf2523463805272f422b3d7fb6e2189264fb18d2cd25754"
+hash = "1e5995b1594b080c95279dc079bdf98c30f616b04f5ef0fffafb2a273cd0eeb6"
 metafile = true
 
 [[files]]
@@ -231,6 +261,11 @@ hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "c21d061d9c22b9bcdad2ac9f9823355fcab00f2ea05469b76d5ddf6ccf518479"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "82782f7ce4f0c322ce40a40719e5756fc620a49af9701546e2dd049c4a1451ed"
 metafile = true
@@ -243,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "58170607da6517dc43eeb5a664dea9dec7d96a8ad9e99d2623c2a5a9099c91be"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "1fd7d2d0d436f2b8e61475da148bdb0dac06bdddeb6d188629785e2a2a89320d"
 metafile = true
 
 [[files]]
@@ -267,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
-hash = "ddce0da295fa4f631f0825aa13f14080177898a449dd95235811f8941e8c182a"
+hash = "4a2b992577d6f41f981f3d2e12b13a1a0d5a8d252fed3c325f8b9443dc8ba33e"
 metafile = true
 
 [[files]]
@@ -371,6 +411,11 @@ hash = "64cf14d53ff31c4f85919a7ccef310a6ba26474b872ddaccabb7a65e6fa29e8a"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "5661b05e4b3c0a9225dbfb0820e6473b0aebbad3a0efd4fb7aa44f7ff827bd59"
 metafile = true
@@ -432,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]

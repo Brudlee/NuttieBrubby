@@ -1,13 +1,13 @@
-name = "Dawn Of Time"
+name = "Dawn of Time"
 filename = "dawnoftimebuilder-forge-1.20.1-1.5.52.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d160bea729df2c880d37671921b52e3ee30956fd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/RgWXq0La/versions/zHqYLK1A/dawnoftimebuilder-forge-1.20.1-1.5.52.jar"
+hash-format = "sha512"
+hash = "2d6e3b333b2547a6aab6d5aae9db2f6284b0d8d8db87acf8f0bdb605ae7035fb3d309320dd8e001aeff81385affd5310da536fac52155c42c82ddca31314aac4"
 
 [update]
-[update.curseforge]
-file-id = 8363570
-project-id = 312359
+[update.modrinth]
+mod-id = "RgWXq0La"
+version = "zHqYLK1A"
