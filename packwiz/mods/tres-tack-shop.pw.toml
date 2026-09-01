@@ -1,0 +1,13 @@
+name = "Tre's Tack Shop - A SWEM Add on"
+filename = "tretackshop-5.0.0--1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13a9b8998c504ccadc228eb017561b22d691dd3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8737122
+project-id = 923263

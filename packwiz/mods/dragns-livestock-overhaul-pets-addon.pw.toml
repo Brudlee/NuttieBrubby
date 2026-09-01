@@ -1,0 +1,13 @@
+name = "DragN's LO: Pets!"
+filename = "DragNs_Pet_Overhaul-1.20.1-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "423b9c69ca3ce0c17fc0a039c6661a3e6ae6605f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8129133
+project-id = 1175609

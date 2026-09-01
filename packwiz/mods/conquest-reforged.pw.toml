@@ -1,0 +1,13 @@
+name = "Conquest Reforged"
+filename = "ConquestReforged-forge-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aeb325076773b492e718ac7e2a6a74afe4044ee8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8702619
+project-id = 250077

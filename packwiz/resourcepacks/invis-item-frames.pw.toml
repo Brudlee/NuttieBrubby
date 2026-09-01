@@ -1,0 +1,13 @@
+name = "Invis Item Frames"
+filename = "Invis Item Frames.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "743c89cbb4c4cf03bb4c94222b1f466ff03ee5a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7221665
+project-id = 1384650

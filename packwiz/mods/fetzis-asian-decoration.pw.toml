@@ -1,0 +1,13 @@
+name = "Fetzi's Asian Decoration"
+filename = "fetzisasiandeco-forge-1.8.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd4c168c4a880e3bf77f8881e24087f866e005f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8555972
+project-id = 678856

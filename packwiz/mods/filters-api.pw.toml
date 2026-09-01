@@ -1,0 +1,13 @@
+name = "Filters API"
+filename = "filters-forge-1.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15c1af491c1a8b7b5fbed2c5940e0813febae3b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8346024
+project-id = 998830

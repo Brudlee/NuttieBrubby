@@ -1,0 +1,13 @@
+name = "Building Gadgets Extra"
+filename = "building-gadgets-extra-forge-1.20.1-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "661b8f731f7f0ac5ecbca8e3d6a1fc581fa748ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8500387
+project-id = 1614988

@@ -1,0 +1,13 @@
+name = "Advanced Upgradable Inventory"
+filename = "advancedinventory-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b34d662d75fd47910733c4431c0db020da67fcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5290199
+project-id = 962244

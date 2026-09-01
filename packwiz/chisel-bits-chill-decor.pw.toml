@@ -1,0 +1,13 @@
+name = "Chisel-bits, chill, decor"
+filename = "Chisel-based decor(forge)-1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9eadc34ae1ee2cdd1a9aa3c019b741c9c10a4c10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5252836
+project-id = 1000080

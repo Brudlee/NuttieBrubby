@@ -1,0 +1,13 @@
+name = "DragN's XC Jumps!"
+filename = "XC-Jumps-1.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a50b71c3e6da8bee2d2564a728287689d05ed85c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5004480
+project-id = 932036
