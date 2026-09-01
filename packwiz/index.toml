@@ -46,11 +46,6 @@ hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
 metafile = true
 
 [[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "d5763c8b4aca51d99c0b372ef05d53acc6c9bdeba83f30fffe71f2caf87d572d"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
@@ -328,11 +323,6 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
