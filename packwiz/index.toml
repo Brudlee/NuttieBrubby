@@ -451,6 +451,11 @@ hash = "4032001f644d7dbb7f70ad14eec88585a7af969a70c9d1099da04792edb2190d"
 metafile = true
 
 [[files]]
+file = "mods/tax-tree-giant.pw.toml"
+hash = "acabfb4577b8ea56da17ff6e221270fb928df83b69500a7edd32055075459f70"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "a01449c29314bff0ad2047911d8253641801e01997709f53fa5b3f52954232a3"
 metafile = true
