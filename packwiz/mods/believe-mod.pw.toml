@@ -1,0 +1,13 @@
+name = "Believe Mod"
+filename = "believemodforge-3.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N4NCx6JE/versions/qCUfo3ay/believemodforge-3.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "df14cc180e0dcb7464754c7e1fb50e92c16f72441b8d7c489dd99e2bcd4a35f9c0697a647c933b7dd9ce8aa58a23b873ee06b4c7d744baf739d8cf213d17d616"
+
+[update]
+[update.modrinth]
+mod-id = "N4NCx6JE"
+version = "qCUfo3ay"

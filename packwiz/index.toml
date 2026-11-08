@@ -46,6 +46,11 @@ hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
 metafile = true
 
 [[files]]
+file = "mods/believe-mod.pw.toml"
+hash = "ed05e4f32a567fcaf2878bb7ad6e93a560bd05ddb1bb67e03fb775153166a235"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
@@ -103,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/conquest-reforged.pw.toml"
 hash = "b2b7debbb7e51090e770248d30ef8d7a6d449c03424c9795aef9f52ba9082d18"
+metafile = true
+
+[[files]]
+file = "mods/conquestarchitects.pw.toml"
+hash = "a06890ba14e701abc6dcbccb23b249e1af4b9892595709e992f68c757b7e834c"
+metafile = true
+
+[[files]]
+file = "mods/conquesthearthfire.pw.toml"
+hash = "3a184d7fffaf5824ad250c5bd3c4d3c83af1cf92370a90d7d2e9032be76ef6c5"
 metafile = true
 
 [[files]]
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
@@ -458,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5ab6f2a4a50bd53506496d3da0c2c09d5a3ca363c3ebc7ca8641ecd3f7104365"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "810c63c5de675c9cb2f29c4e63231ae4d35d83f906d3279ac5c7a83132fe387c"
 metafile = true
 
 [[files]]

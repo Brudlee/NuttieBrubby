@@ -1,0 +1,13 @@
+name = "Conquest:Architects"
+filename = "Architects-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YtIVfPne/versions/wELWspAU/Architects-1.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "fe03e024e852d6855297d2c3eb6211ffb5a6ef772cc59599df08bbf524f79bad27a65b20e3b1412866817864c7a5594a4490cdb97edfa85a5e710449320bd5c1"
+
+[update]
+[update.modrinth]
+mod-id = "YtIVfPne"
+version = "wELWspAU"

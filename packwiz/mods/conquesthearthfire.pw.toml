@@ -1,0 +1,13 @@
+name = "Conquest:Hearthfire"
+filename = "Hearthfire-1.0.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iOP2oL1Y/versions/UxL7MSLp/Hearthfire-1.0.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "e36b2a0cecb547619e4340a2ae9aa2e94c43c52a62184c7fb2db6456586653c20b9fec938a68bfed75cfd968600be365691066a772b747dc062cbdc3f69b32cc"
+
+[update]
+[update.modrinth]
+mod-id = "iOP2oL1Y"
+version = "UxL7MSLp"
