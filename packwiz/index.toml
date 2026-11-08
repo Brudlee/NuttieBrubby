@@ -226,6 +226,11 @@ hash = "e2526645a227e5b8c705a323a991fecc123dc5ddd610b9bb3a285f7337df8cc4"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "86b3c9e86555e4cf9fdbe6bb25f0d9e50da421222eb381f81841d5ef8b8270c2"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
 metafile = true
@@ -443,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/swem.pw.toml"
 hash = "4032001f644d7dbb7f70ad14eec88585a7af969a70c9d1099da04792edb2190d"
+metafile = true
+
+[[files]]
+file = "mods/tans-huge-trees.pw.toml"
+hash = "6fe564eee0d97a6a9fc6e567f4d2d97592e2b50ab507bd2deb6f25bdcd4f160a"
 metafile = true
 
 [[files]]
