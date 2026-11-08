@@ -121,11 +121,6 @@ hash = "3a184d7fffaf5824ad250c5bd3c4d3c83af1cf92370a90d7d2e9032be76ef6c5"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
-metafile = true
-
-[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "38f8ed86c67b3c54d8044835237809587cf3c8f1cf5a7facddf8126b38c0425e"
 metafile = true
