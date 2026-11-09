@@ -466,6 +466,11 @@ hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
+file = "mods/time-control.pw.toml"
+hash = "d53479521d23390d2bf557ae1c92ae0bbbaf2200dda168e3e8afde6a92984d10"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
 metafile = true
