@@ -1,0 +1,13 @@
+name = "Conquest Reforged Resourcepack Fix"
+filename = "VM_CRRPFIX_1.20.1-rc1.02.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b5eebac578dc026cb885be868113ed242828ce1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5176043
+project-id = 924177

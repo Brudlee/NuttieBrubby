@@ -521,6 +521,11 @@ hash = "bb61153d1ff5cf7edaa8d047415203969a82e198e2d24cd174f087e34c092cab"
 metafile = true
 
 [[files]]
+file = "resourcepacks/conquest-reforged-resourcepack-fix-for.pw.toml"
+hash = "3d53c396d58c5e60ce0149d578d5c731dacee82f0e257653af3b467f9f204ee0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/invis-item-frames.pw.toml"
 hash = "f649e7926ddeb2b515d2c02be0793b94d056b4dc4f821472354571dbf30fa266"
 metafile = true
