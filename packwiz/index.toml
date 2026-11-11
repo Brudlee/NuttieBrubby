@@ -391,6 +391,11 @@ hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
 
 [[files]]
+file = "mods/plant-mega-pack-reupload.pw.toml"
+hash = "8d2216663eeb4392af00575ce9f56e321ded449b416bd195a0dd4cd11e542ab4"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true

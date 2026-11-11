@@ -1,0 +1,13 @@
+name = "Plant Mega Pack (REUPLOAD)"
+filename = "plantsmegapackreborn-1.0.0pre2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "973e8f680c559cc9c1d44daf222dfadc5cf95cce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6280989
+project-id = 1192269
