@@ -66,6 +66,11 @@ hash = "2195b22648787aac875b1ea60c51cca57c1c0a4db4241ec52cd3ea2abfeaebf4"
 metafile = true
 
 [[files]]
+file = "mods/book-of-dragons.pw.toml"
+hash = "879bacf928f2ab52ee9cda2c5713e4a96b12e5eb57e3c1b20e2d80651c4d92a0"
+metafile = true
+
+[[files]]
 file = "mods/build-gadgets-extra.pw.toml"
 hash = "b2ccc6d157d65016dc479cc00656f4673cd7e78970eae38d7607eeb7c44e084d"
 metafile = true
@@ -246,6 +251,11 @@ hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
 metafile = true
 
 [[files]]
+file = "mods/fauna-engine.pw.toml"
+hash = "640b2825c3862efae4ee886296998c76f479434b808349718f6850080a19d4c8"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -388,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/pathfinding-edition-for-minecolonies.pw.toml"
+hash = "68617a047b48b0fb0fb614cb69172c3c77a60a77d21a8a82d578536cca377372"
 metafile = true
 
 [[files]]
