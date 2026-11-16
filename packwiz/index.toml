@@ -361,6 +361,11 @@ hash = "3dab61e009e036bdd4b48a50d11fcfc6a6b61a4b600b3b791090af4a1d1e8a50"
 metafile = true
 
 [[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "27778be66f8c825ab12d72c76cf39163c9e4b083a7956049ebda1d66ed2ad99c"
+metafile = true
+
+[[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
 metafile = true
@@ -478,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "5661b05e4b3c0a9225dbfb0820e6473b0aebbad3a0efd4fb7aa44f7ff827bd59"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
